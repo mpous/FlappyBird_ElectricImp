@@ -5,6 +5,7 @@ I wanted to play with Flappy Bird in HTML5 physically with my hands. To make it,
 
 Find all the information here https://makers.thethings.io/marcpous/posts/playing-flappy-bird-with-electric-imp-and-a-tilt-sensor
 
+Check https://thethings.io for more information
 
 
 Credits
